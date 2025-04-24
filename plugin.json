@@ -64,7 +64,7 @@
     "hasBody": true,
     "hasHeaders": true,
     "hasResultTransform": true,
-    "id": "YOUR_UNIQUE_ACTION_ID_HERE", // Generate another UUID
+    "id": "Y719db732-df5d-410d-92b5-34996d5b81ca",
     "method": "POST",
     "name": "", 
     "requestBody": "{\\n        \\\"model\\\": \\\"gpt-image-1\\\",\\n        \\\"prompt\\\": \\\"{prompt}\\\",\\n        \\\"n\\\": {n},\\n        \\\"size\\\": \\\"{size}\\\",\\n        \\\"quality\\\": \\\"{quality}\\\",\\n        \\\"background\\\": \\\"{background}\\\",\\n        \\\"moderation\\\": \\\"low\\\"\\n    }", 
