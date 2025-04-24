@@ -1,6 +1,6 @@
 {
   "id": "image_generation_via_gptimage_1",
-  "uuid": "1550fbfa-a5b8-4240-8c41-cd1024fcec05", // Generate a new UUID (e.g., using an online generator)
+  "uuid": "1550fbfa-a5b8-4240-8c41-cd1024fcec05",
   "userSettings": [
     {
       "name": "openaikey",
